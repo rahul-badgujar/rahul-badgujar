@@ -1,3 +1,5 @@
+[Cover Image](https://github.com/rahul-badgujar/rahul-badgujar/blob/main/cover%20image.jpeg)
+
 ### Hi there, Rahul here 👋
 
 - 🔭 I’m currently working on: Flutter
