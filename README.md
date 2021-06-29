@@ -2,9 +2,9 @@
 
 ### Hi there, Rahul here 👋
 
-- 🔭 I’m currently working on: Flutter
-- 🌱 I’m currently learning: Google Firebase
-- 👯 I’m looking to collaborate on: Flutter
-- 🤔 I’m looking for help with: UI Designing
+- 🔭 I’m currently working on: Dart Servers
+- 🌱 I’m currently learning: Server Architecture and Cache System
+- 👯 I’m looking to collaborate on: Server Architecture
+- 🤔 I’m looking for help with: Cache Systems
 - 💬 Ask me about: Programming
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rahulbadgujar/)
