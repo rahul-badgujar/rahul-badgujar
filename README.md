@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahul-badgujar" alt="rahul-badgujar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/imrb7here" target="blank"><img src="https://img.shields.io/twitter/follow/imrb7here?logo=twitter&style=for-the-badge" alt="imrb7here" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rahul_badgujar_" target="blank"><img src="https://img.shields.io/twitter/follow/imrb7here?logo=twitter&style=for-the-badge" alt="https://twitter.com/rahul_badgujar_" /></a> </p>
 
 - 🔭 I’m currently working on **Messaging Systems**
 
