@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rahul_badgujar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imrb7here" height="30" width="40" /></a>
+<a href="https://twitter.com/rahul_badgujar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/rahul_badgujar_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rahulbadgujar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahulbadgujar/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/8210852/rahul-badgujar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/8210852/rahul-badgujar" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/rahulbadgujar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rahulbadgujar" height="30" width="40" /></a>
